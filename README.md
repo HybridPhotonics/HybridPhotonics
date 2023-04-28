@@ -6,4 +6,4 @@
 - 🔗 Connect with us and keep up to date with our activities through our website, [polaritonics.org](https://www.polaritonics.org/home)
 
 
-#### ✨ Our code is for the private use of group members and collaborators. If you wish to request access to certain private project, please contact us via email ✨
+#### ✨ Our code is for the private use of group members and collaborators. If you wish to request access to certain private projects, please contact us via email ✨
